@@ -1,5 +1,8 @@
 <?
-// simple json wrapper for bosh traffic
+/* simple json proxy wrapper for idzXHR plugin
+** by Gueron Jonathan (http://www.iadvize.com)
+** licensed under the MIT license
+*/
 
 if (!isset($_GET['data']) || $_GET['data'] == '' || !isset($_GET['callback'])) {
 	exit(1);
