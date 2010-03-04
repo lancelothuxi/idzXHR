@@ -1,7 +1,7 @@
-This is the idzXHR plugin for strophe.js (http://code.stanziq.com/strophe/)
-developed by jonathan Gueron, CTO at iAdvize (http://www.iadvize.com/).
+This is the idzXHR plugin for strophe.js ( http://code.stanziq.com/strophe/ )
+developed by jonathan Gueron, CTO at iAdvize ( http://www.iadvize.com/ ).
 
-It use a modified version of jXHR.js (http://mulletxhr.com/).
+It use a modified version of jXHR.js ( http://mulletxhr.com/ ).
 Like strophe and jXHR it is licensed under the MIT license.
 
 This plugin allow strophe to work without any cross domain policy limitation
