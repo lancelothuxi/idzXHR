@@ -1,0 +1,19 @@
+This is the idzXHR plugin for strophe.js (http://code.stanziq.com/strophe/)
+developed by jonathan Gueron, CTO at iAdvize (http://www.iadvize.com/).
+
+It use a modified version of jXHR.js (http://mulletxhr.com/).
+Like strophe and jXHR it is licensed under the MIT license.
+
+This plugin allow strophe to work without any cross domain policy limitation
+to use it simply edit jproxy.php to define your BOSH url and point strophe connection to the jproxy.php script
+
+Like strophe.js, this plugin has been tested on Firefox 2.x and later, IE 6 and later, Safari, Opera and Chrome.
+
+Here is a working demo using the peek application from the book "Professional XMPP pogramming with javascript and jQuery" by Jack Moffit.
+
+Demo:
+http://www.iadvize.com/peek/peek.html 
+JID: jxhr@iadvize.com 
+Password: jxhr
+
+Contact me at jonathan@iadvize.com if you need help. 
