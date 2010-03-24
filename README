@@ -9,7 +9,7 @@ to use it simply edit jproxy.php to define your BOSH url and point strophe conne
 
 Like strophe.js, this plugin has been tested on Firefox 2.x and later, IE 6 and later, Safari, Opera and Chrome.
 
-Here is a working demo using the peek application from the book "Professional XMPP pogramming with javascript and jQuery" by Jack Moffit.
+Here is a working demo using the peek application from the book "Professional XMPP programming with javascript and jQuery" by Jack Moffit.
 
 Demo:
 http://www.iadvize.com/peek/peek.html 
